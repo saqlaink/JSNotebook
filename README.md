@@ -1,4 +1,4 @@
-## JSColaboratory
+## JSNotebook
 
 npm i -g jscolab
 
